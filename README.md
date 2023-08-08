@@ -8,3 +8,7 @@ Calculate average grade based on weightages and grades of assignments/quizzes.
 Convert average grade to CGPA form.
 Convert average grade to letter grade form.
 Calculate the average grade needed on the remaining assignments/quizzes to achieve a desired overall average (if applicable).
+
+JDK being used: Oracle OpenJDK Version 11.0.8
+
+Entire program is within main.java file
